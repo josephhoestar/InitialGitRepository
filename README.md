@@ -51,4 +51,6 @@
 
 ## git branch -d <branchname> - delete existing branch with given name
 
+## git branch - shows all current branches and what branch you're currently on
 
+## git merge <branchname> - merges the histories of two branches into a single branch
