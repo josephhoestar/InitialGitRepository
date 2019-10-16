@@ -54,3 +54,7 @@
 ## git branch - shows all current branches and what branch you're currently on
 
 ## git merge <branchname> - merges the histories of two branches into a single branch
+## Merge Steps
+1. checkout the branch you want to merge changes into.
+2. git merge branch you want to merge into current branch
+
